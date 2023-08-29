@@ -1,0 +1,59 @@
+
+*{
+	text-align: center;
+	padding: 8px;
+}
+
+li {
+	list-style-type: none;
+	text-align: center;
+	padding-bottom: 15px;
+    padding-top: 1px;
+}
+
+input {
+	background-color: #000000;
+	border: white;
+	border-radius: 3px;
+	text-align: left;
+	color: rgb(255, 255, 255);
+}
+
+h1{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: black;
+    padding-top: 25px;
+}
+
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color: black;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgb(137, 175, 250);
+    padding-bottom: 50px;
+    box-shadow: 10px 10px 10px 10px black;
+   
+}
+.submit {
+	background-color: rgb(255, 255, 255);
+    color: black;
+	border: 3px solid black;
+	width: 70%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 18px;
+	transition: 1 ease-in;
+	text-align: center;
+    cursor: pointer;
+}
+
+.password, .username {
+width: 100%;
+font-size: 15px;
+}
+
+body {
+	background-image: url(https://www.adultswim.com/misc/primal-backgrounds/media/BG2/BG2_Desktop_1280x720.jpg);
+}
